@@ -1,0 +1,123 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #0e0d20;
+    color: #EFDCAB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    width: 90%;
+    max-width: 600px;
+    text-align: center;
+}
+
+/* Logo-like title */
+.title h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #ffcc00;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Main title */
+.title h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 10px 0 20px;
+}
+
+/* Box container */
+.box {
+    width: 100%;
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 25px;
+    background-color: #1c1c29;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.box p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #c5c5c5;
+    margin-bottom: 5px;
+}
+
+/* Input and button */
+.input-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+input[type="text"] {
+    padding: 12px;
+    width: 70%;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    outline: none;
+    background-color: #ffffff;
+    color: #333;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+button {
+    background-color: #9b59b6;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #8e44ad;
+}
+
+#result {
+    font-size: 18px;
+    color: #76d7c4;
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+}
+
+/* Definition box */
+.box2 {
+    width: 100%;
+    max-width: 450px;
+    margin: 25px auto;
+    padding: 18px 22px;
+    background-color: #174117;
+    border-radius: 15px;
+    color: white;
+    font-size: 19px;
+    font-weight: 400;
+    text-align: left;
+    line-height: 1.5;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
