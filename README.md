@@ -52,7 +52,8 @@ Contributions are welcome! Feel free to fork the repo, create a feature branch, 
 This project is open-source and available under the MIT License.
 
 
-📬 Connect with Me
-👨‍💻 Ankit
-🔗 GitHub Profile
+## 📬 Connect with Me  
+👨‍💻 **Ankit**  
+🔗 [GitHub Profile](https://github.com/ANKIT-stack-glitch)
+
 
