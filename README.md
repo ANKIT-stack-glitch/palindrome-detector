@@ -8,7 +8,8 @@ A simple and interactive **Palindrome Checker** built using **HTML, CSS, and Jav
 ✅ Instant results with JavaScript validation.  
 
 ## 🎥 Demo  
-[🔗 Live Demo](#) 
+[🔗 Live Demo](https://ankit-stack-glitch.github.io/palindrome-detector/)
+
 
 ## 🖥️ Screenshot  
  
