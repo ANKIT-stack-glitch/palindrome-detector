@@ -30,7 +30,7 @@ A simple and interactive **Palindrome Checker** built using **HTML, CSS, and Jav
 3. Enter a word or phrase and check if it’s a palindrome! 🔄
 
    
-   💡 How It Works
+## 💡 How It Works
    
 A palindrome is a word, phrase, or sequence that reads the same forwards and backwards (ignoring spaces, punctuation, and capitalization).
 For example:
@@ -39,22 +39,22 @@ For example:
 ❌ "hello" → Not a Palindrome
 
 
-🚀 Future Enhancements
+## 🚀 Future Enhancements
 🔹 Add support for checking entire sentences.
 🔹 Improve UI with animations.
 🔹 Deploy online for easy access.
 
 
-🙌 Contributing
+## 🙌 Contributing
 Contributions are welcome! Feel free to fork the repo, create a feature branch, and submit a PR.
 
 
-📝 License
+## 📝 License
 This project is open-source and available under the MIT License.
 
 
 ## 📬 Connect with Me  
-👨‍💻 **Ankit**  
+👨‍💻 **Ankit Poudel**
 🔗 [GitHub Profile](https://github.com/ANKIT-stack-glitch)
 
 
