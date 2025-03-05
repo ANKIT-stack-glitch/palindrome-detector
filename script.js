@@ -6,7 +6,10 @@ btn.addEventListener('click', () => {
     let str = text.value;
     let cleanedStr = str.replace(/[^A-Za-z0-9]/g, '').toLowerCase();
     let reversedStr = cleanedStr.split('').reverse().join('');
-    if (cleanedStr === reversedStr) {
+    if (str === "") {
+      alert("Please input a value")
+    }
+    else if (cleanedStr === reversedStr) {
         output.innerHTML = `${str} is a palindrome`;
     } else {
         output.innerHTML = `${str} is not a palindrome`;
